@@ -42,6 +42,8 @@ void main(void){
 		
 	}
 	
+	
+	
 // What is the difference b/t for and while with help real life example.
 	//3*3 = 9
 	// Task of the day 17-Dec-2022
